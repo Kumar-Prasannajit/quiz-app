@@ -20,6 +20,36 @@ const questions = [
       "Creative Style Syntax"
     ],
     answer: "Cascading Style Sheets"
+  },
+  {
+    question: "What year was JavaScript created?",
+    answers: ["1995", "2000", "1985", "1990"],
+    answer: "1995"
+  },
+  {
+    question: "Which operator is used for strict equality comparison in JavaScript?",
+    answers: ["==", "===", "=", "!="],
+    answer: "==="
+  },
+  {
+    question: "What is the largest planet in our solar system?",
+    answers: ["Mars", "Saturn", "Jupiter", "Neptune"],
+    answer: "Jupiter"
+  },
+  {
+    question: "Who painted the Mona Lisa?",
+    answers: ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+    answer: "Leonardo da Vinci"
+  },
+  {
+    question: "What is the chemical symbol for gold?",
+    answers: ["Ag", "Fe", "Au", "Cu"],
+    answer: "Au"
+  },
+  {
+    question: "Which HTML tag is used to create a hyperlink?",
+    answers: ["<link>", "<href>", "<a>", "<url>"],
+    answer: "<a>"
   }
 ];
 
